@@ -22,7 +22,7 @@ jika tidak ada kesalahan dalam sebua code seperti di atas maka akan menghasilkan
 6. `Complex` = Menyatakan pasangan angka real dan imajiner 1 + 5
 7. `List` = Data untaian yang menyimpan berbagai tipe data dan isinya bisa diubah-ubah ['xyz', 786, 2.23]
 8. `Tuple` = data untaian yang menyimpan berbagai tipe data tapi isinya tidak bisa diubah ['xyz', 786, 2.23]
-9. `Dictionary` = data untaian yang menyimpan berbagai tipe data berupa psangan penunjuk dan nilai {'nama': 'firman','id':1}
+9. `Dictionary` = data untaian yang menyimpan berbagai tipe data berupa psangan penunjuk dan nilai {'nama': 'Rurela','id':1}
 
 
 
